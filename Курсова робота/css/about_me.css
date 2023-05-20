@@ -1,0 +1,37 @@
+.name1{
+    margin-top: 249px;
+    margin-left: 262px;
+    width: 401px;
+    height: 44px;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 46px
+}
+
+.text{
+    margin-top: 15px;
+    margin-left: 265px;
+    width: 350px;
+    height: 44px;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.name-2{
+    /* margin-top: -355px; */
+    margin-left: 746px;
+    width: 805px;
+    height: 44px;
+    border-radius: 22px;
+    font-weight: 500;
+    font-size: 46px;
+}
+
+.text2{
+    /* margin-top: -355px; */
+    margin-left: 746px;
+    width: 800px;
+    height: 44px;
+    font-weight: 400;
+    font-size: 36px
+}

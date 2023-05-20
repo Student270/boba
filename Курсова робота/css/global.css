@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    min-height: 100%;
+}
+body{
+    margin: 0px;
+    background: #FFFEF9;
+    padding-top: 01px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    top: 0px;
+    background-color: black;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+}
+
+.header div{
+    float: left;
+}
+
+.name {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.Pobel {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.name2 {
+    font-weight: 400;
+    font-size: 15px;
+    color: #B6B6B6;
+}
+
+.menuitem1 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #24FF00;
+}
+
+.menuitem2 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #B6B6B6;
+}
+
+.menuitem3 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #B6B6B6;
+}
+
+.menuitem4 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #B6B6B6;
+}
+
+.menuitem5 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #B6B6B6;
+}
+
+.tema {
+    width: 30px;
+}
+
+.hide{
+    display: none;
+}
+
+.header .e, .n{
+    color: white;
+} 
+
+.header #lighteng, #dekeng{
+    margin-left: 5px;
+}
+
+.header .language{
+    cursor: pointer;
+}
+
+#langugua{
+    cursor: pointer;
+}
